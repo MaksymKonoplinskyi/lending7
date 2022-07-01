@@ -758,6 +758,8 @@ img {
 
 .benefits__card-thumb {
     display: block;
+    width: 66px;
+    height: 66px;
 }
 
 .benefits__card-title {
